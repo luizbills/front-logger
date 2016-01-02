@@ -1,0 +1,15 @@
+{
+  "name": "front-logger",
+  "version": "1.0.0",
+  "description": "front-end viewport for logging",
+  "main": "lib/index.js",
+  "keywords": [
+    'front', 
+    'frontend',
+    'logger', 
+    'logging',
+    'log'
+  ],
+  "author": "Luiz Bills <luizpbills@gmail.com>",
+  "license": "MIT"
+}
